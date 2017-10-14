@@ -1,0 +1,1 @@
+WebGL是2D API，并不是3D API。它只关心两件事，第一是剪切空间坐标，第二是颜色。Vertex shader 提供前者，fragment shader提供后者。**_~~* 1. - [ ] ~~_**

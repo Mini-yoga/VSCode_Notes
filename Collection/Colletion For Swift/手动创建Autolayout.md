@@ -1,0 +1,1 @@
+<http://swiftandpainless.com/dont-put-view-code-into-your-view-controller/>
